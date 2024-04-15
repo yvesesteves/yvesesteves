@@ -1,7 +1,7 @@
 <h3 align="center">Hello, World!</h3>
 
 ## Olá, eu sou o Yves! 👋
-- 🔭 Estou procurando minha primeira oportunidade de profissional
+- 🔭 Estagiário de BlockChain
 - 📚 Atualmente cursando Ciência da Computação na Universidade Federal de Uberlândia
 - 💻 Técnico em Informática
 - 📭 Contate-me por email: yves.yan@hotmail.com
