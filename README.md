@@ -1,4 +1,6 @@
-<h3 align="center">Hello, World!</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=160121&amp;height=120&amp;section=header" style="max-width: 100%;">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+World!;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Olá, eu sou o Yves! 👋
 - 🔭 Estagiário de BlockChain na Compass UOL
@@ -8,9 +10,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yvesesteves&hide_title=false&hide_rank=false&show_icons=true&cache_bust=TIMESTAMP&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&cache_seconds=1100&locale=en&hide_border=false&order=1" height="150" alt="stats graph "  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvesesteves&cache_bust=TIMESTAMP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&cache_seconds=1100&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yvesesteves&hide_title=false&hide_rank=false&show_icons=true&cache_bust=TIMESTAMP&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&cache_seconds=1100&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvesesteves&cache_bust=TIMESTAMP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&cache_seconds=1100&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
 ###
 
@@ -51,6 +54,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
 </div>
 
 ###
+
