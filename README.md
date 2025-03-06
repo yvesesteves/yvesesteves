@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+World!;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Olá, eu sou o Yves! 👋
-- 🔭 Estagiário de BlockChain na Compass UOL
+- 🔭 Estagiário de Suporte na Landix Sistemas
 - 📚 Atualmente cursando Ciência da Computação na Universidade Federal de Uberlândia
 - 💻 Técnico em Informática
 - 📭 Contate-me por email: yves.yan@hotmail.com
