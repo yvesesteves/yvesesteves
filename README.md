@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+World!;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## Olá, eu sou o Yves! 👋
+## Hello! I'm Yves! 👋
 - 📚 Currently pursuing Computer Science at the Federal University of Uberlândia
 - 💻 IT Technician
 - 📭 Contact me via email: yves.yan@hotmail.com
